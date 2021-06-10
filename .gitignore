@@ -1,0 +1,7 @@
+CUIymCreateUIcon.xcodeproj/xcuserdata/
+CUIymCreateUIcon.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+CUIymCreateUIcon.xcodeproj/project.xcworkspace/xcuserdata/
